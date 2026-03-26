@@ -92,9 +92,6 @@ IV. Hệ thống cửa hàng:
 - FREESHIP: miễn phí vận chuyển cho đơn từ 300.000₫.
 
 7. Liên hệ:
-  Khách hàng có thể liên hệ qua các kênh:
 Hotline: 028 1234 5678
-Email hỗ trợ: support@petoria.vn
-Email hợp tác: partner@petoria.vn
-Facebook: facebook.com/petoria
-Zalo OA: zalo.me/petoria
+Link Youtube:
+Link Facebook: https://www.facebook.com/bdi.edu.vn
